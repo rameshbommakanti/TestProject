@@ -12,6 +12,7 @@ package com.rbt.testproject;
 public class Test {
     
     public static void main(String ar[]){
+        System.out.println("welcome to java");
         
     }
     
